@@ -6,6 +6,6 @@ Converts your RetroN5 save files to and from raw save files and vice versa. Buil
 
 ## Special Thanks
 
-This program is based on another program written by Wolf on the [Retro5 Unofficial Community Forum](https://www.retro5.net/viewtopic.php?t=257). I made a complete overhaul to the program to make it more user friendly and add new features. I kept credit to Wolf in the program because I think Wolf deserves it.
+This program is based on another program written by Wolf on the Retro5 Unofficial Community Forum ([Link](https://www.retro5.net/viewtopic.php?t=257)). I made a complete overhaul to the program to make it more user friendly with the drag & drop feature. I keep credit for Wolf in the program because I think Wolf deserves it.
 
-Hyperkin logo is copyright © 2023 by Hyperkin, Inc.
+Hyperkin logo is copyright Â© 2023 by Hyperkin, Inc.
